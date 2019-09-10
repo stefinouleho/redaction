@@ -1,0 +1,75 @@
+\documentclass{these}
+\usepackage[utf8]{inputenc} %spÃ©cification de l'encodage du fichier .tex, Ã 
+                            %changer si c'est du latin1
+\usepackage[french]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{cite}     % pour les citations multiples
+\usepackage{amsthm}
+\usepackage{graphicx}
+ \usepackage{float}
+ \usepackage[linesnumbered, french,onelanguage,vlined,ruled]{algorithm2e}
+ 
+ \usepackage{fontspec}
+\usepackage[usenames,dvipsnames]{pstricks}
+ \usepackage{epsfig}
+ \usepackage{pst-grad} % For gradients
+ \usepackage{pst-plot} % For axes
+ \usepackage[space]{grffile} % For spaces in paths
+ \usepackage{etoolbox} % For spaces in paths
+ \makeatletter % For spaces in paths
+ \patchcmd\Gread@eps{\@inputcheck#1 }{\@inputcheck"#1"\relax}{}{}
+ \makeatother 
+ 
+ 
+ 
+\theoremstyle{definition}
+\newtheorem{theorem}{Théorème}[section]
+\newtheorem{definition}{Définition}[section]
+\newtheorem{lemme}{Lemme}[section]
+\newtheorem{preuve}{Preuve}[section]
+\newtheorem{exemple}{Exemple}[subsection]
+
+\title{Algorithmique de graphes pour l'aide à la décision dans la construction moléculaire }
+\author{Stéfi NOULEHO ILEMO}
+\date{XX - mois - XXXX}
+\labo{DAVID}
+\school{EDSTIC}
+\speciality{Informatique}
+\university{l'Université de Paris-Saclay}{UNIVERSITÉ DE PARIS-SACLAY}
+%\ISBN{} %Ã  remplir et dÃ©commenter lorsque ce numÃ©ro est connu.
+\advisor[M]{Dominique BARTH} %Directeur de thÃ¨se
+\coadvisor[M]{Marc-Antoine WEISSER} %Co-directeur de thÃ¨se, si nÃ©cessaire
+\jury{  %dÃ©finition des membres du jury
+\jurymember[M]{Z}{Président du jury}\\
+\jurymember[M]{U}{Rapporteur}\\
+\jurymember[M]{V}{Rapporteur}\\
+\jurymember[M]{W}{Examinateur}\\
+\juryadvisor\\    % inclut le directeur de thÃ¨se dans le jury
+\jurycoadvisor    % inclut le co-directeur de thÃ¨se dans le jury, si nÃ©cessaire
+}
+
+\bibliographystyle{plain}
+\begin{document}
+\frontmatter
+\maketitle
+
+\input{resume.tex}
+%\input{remerciements.tex}
+\tableofcontents
+
+\mainmatter
+\input{introduction.tex}
+\input{chapitre1.tex}
+\input{chapitre2.tex}
+\input{chapitre3.tex}
+\input{chapitre4.tex}
+\input{chapitre5.tex}
+\input{conclusion.tex}
+%\nocite{*}
+
+\bibliography{biblio}
+
+%\appendix
+\backmatter
+%\makeback
+\end{document}

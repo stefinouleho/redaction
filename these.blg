@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: these.aux
+The style file: plain.bst
+Database file #1: biblio.bib
+Warning--I didn't find a database entry for "bregier2004mas"
+Warning--I didn't find a database entry for "kir"
+Warning--can't use both volume and number fields in bero2017similarity
+You've used 19 entries,
+            2118 wiz_defined-function locations,
+            631 strings with 7316 characters,
+and the built_in function-call counts, 6569 in all, are:
+= -- 655
+> -- 292
+< -- 4
++ -- 120
+- -- 96
+* -- 478
+:= -- 1090
+add.period$ -- 60
+call.type$ -- 19
+change.case$ -- 104
+chr.to.int$ -- 0
+cite$ -- 20
+duplicate$ -- 247
+empty$ -- 509
+format.name$ -- 96
+if$ -- 1378
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 20
+newline$ -- 98
+num.names$ -- 38
+pop$ -- 89
+preamble$ -- 1
+purify$ -- 86
+quote$ -- 0
+skip$ -- 177
+stack$ -- 0
+substring$ -- 444
+swap$ -- 55
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 74
+warning$ -- 1
+while$ -- 61
+width$ -- 21
+write$ -- 213
+(There were 3 warnings)

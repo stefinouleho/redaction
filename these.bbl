@@ -1,0 +1,114 @@
+\begin{thebibliography}{10}
+
+\bibitem{bajusz2015tanimoto}
+D{\'a}vid Bajusz, Anita R{\'a}cz, and K{\'a}roly H{\'e}berger.
+\newblock Why is tanimoto index an appropriate choice for fingerprint-based
+  similarity calculations?
+\newblock {\em Journal of cheminformatics}, 7(1):20, 2015.
+
+\bibitem{barbosa}
+Frédérique Barbosa and Dragos Horvath.
+\newblock Molecular similarity and property similarity.
+\newblock {\em Current topics in medicinal chemistry}, 4:589--600, 02 2004.
+
+\bibitem{benoit}
+Didier~Villemin BeHartkenoit~Gaüzère, Luc~Brun.
+\newblock Représentation des cycles d'une molécule sous forme d'hypergraphe.
+\newblock {\em Reconnaissance de Formes et Intelligence Artificielle (RFIA)
+  2014}, 06 2014.
+
+\bibitem{berger2004minimum}
+Franziska Berger, Peter Gritzmann, and Sven de~Vries.
+\newblock Minimum cycle bases for network graphs.
+\newblock {\em Algorithmica}, 40(1):51--62, 2004.
+
+\bibitem{bero2017similarity}
+SA~Bero, AK~Muda, YH~Choo, NA~Muda, and SF~Pratama.
+\newblock Similarity measure for molecular structure: a brief review.
+\newblock In {\em Journal of Physics: Conference Series}, volume 892, page
+  012015. IOP Publishing, 2017.
+
+\bibitem{dean2012molecular}
+Philip~Michael Dean.
+\newblock {\em Molecular similarity in drug design}.
+\newblock Springer Science \& Business Media, 2012.
+
+\bibitem{dixon2001one}
+Steven~L Dixon and Kenneth~M Merz.
+\newblock One-dimensional molecular representations and similarity
+  calculations: methodology and validation.
+\newblock {\em Journal of Medicinal Chemistry}, 44(23):3795--3809, 2001.
+
+\bibitem{downs1994similarity}
+Geoffrey~M Downs, Peter Willett, and William Fisanick.
+\newblock Similarity searching and clustering of chemical-structure databases
+  using molecular property data.
+\newblock {\em Journal of Chemical Information and Computer Sciences},
+  34(5):1094--1102, 1994.
+
+\bibitem{Hartke}
+Stephen G.~Hartke and Andrew Radcliffe.
+\newblock Mckays canonical graph labeling algorithm.
+\newblock {\em Contemporary Mathematics book series}, 479, 02 2013.
+
+\bibitem{golynski2002polynomial}
+Alexander Golynski and Joseph~D Horton.
+\newblock A polynomial time algorithm to find the minimum cycle basis of a
+  regular matroid.
+\newblock In {\em Scandinavian Workshop on Algorithm Theory}, pages 200--209.
+  Springer, 2002.
+
+\bibitem{horton}
+Joseph Horton.
+\newblock A polynomial-time algorithm to find the shortest cycle basis of a
+  graph.
+\newblock {\em SIAM J. Comput.}, 16:358--366, 04 1987.
+
+\bibitem{LeeJoon}
+Chang Joon~Lee, Young-Mook Kang, Kwang-Hwi Cho, and Kyoung~Tai No.
+\newblock A robust method for searching the smallest set of smallest rings with
+  a path-included distance matrix.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 106:17355--8, 09 2009.
+
+\bibitem{kavitha2004faster}
+Telikepalli Kavitha, Kurt Mehlhorn, Dimitrios Michail, and Katarzyna Paluch.
+\newblock A faster algorithm for minimum cycle basis of graphs.
+\newblock In {\em International Colloquium on Automata, Languages, and
+  Programming}, pages 846--857. Springer, 2004.
+
+\bibitem{McKay201494}
+Brendan~D. McKay and Adolfo Piperno.
+\newblock Practical graph isomorphism, \{II\}.
+\newblock {\em Journal of Symbolic Computation}, 60(0):94 -- 112, 2014.
+
+\bibitem{Qian}
+Cheng Qian, William Fisanick, Dale E.~Hartzler, and Steven W.~Chapman.
+\newblock Enhanced algorithm for finding the smallest set of smallest rings.
+\newblock {\em Journal of Chemical Information and Computer Sciences},
+  30:105--110, 05 1990.
+
+\bibitem{shin2015three}
+Woong-Hee Shin, Xiaolei Zhu, Mark Bures, and Daisuke Kihara.
+\newblock Three-dimensional compound comparison methods and their application
+  in drug discovery.
+\newblock {\em Molecules}, 20(7):12841--12862, 2015.
+
+\bibitem{vismara}
+Philippe Vismara.
+\newblock Union of all the minimum cycle bases of a graph.
+\newblock {\em Electr. J. Comb.}, 4, 01 1997.
+
+\bibitem{rascal}
+John W.~Raymond, Eleanor Gardiner, and Peter Willett.
+\newblock Rascal: Calculation of graph similarity using maximum common edge
+  subgraphs.
+\newblock {\em Comput. J.}, 45:631--644, 04 2002.
+
+\bibitem{Zamora}
+Antonio Zamora.
+\newblock An algorithm for finding the smallest set of smallest rings.
+\newblock {\em Journal of Chemical Information and Computer Sciences},
+  16:40--43, 02 1976.
+
+\end{thebibliography}

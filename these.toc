@@ -1,0 +1,45 @@
+\select@language {french}
+\contentsline {section}{R\'esum\'e}{iii}
+\contentsline {section}{Abstract}{iv}
+\contentsline {section}{Table des matières\markboth {\MakeUppercase {Table des matières}}{\MakeUppercase {Table des matières}}}{v}
+\contentsline {chapter}{{Introduction}}{1}
+\contentsline {chapter}{\numberline {1}Présentation détaillée du sujet}{3}
+\contentsline {section}{\numberline {1}Titre de la premiere section}{3}
+\contentsline {section}{\numberline {2}Titre de la seconde section}{3}
+\contentsline {section}{\numberline {3}Conclusion}{3}
+\contentsline {chapter}{\numberline {2}État de l'art sur la similarité moléculaire}{5}
+\contentsline {section}{\numberline {1}Les mesures de similarité basés sur les empreintes}{6}
+\contentsline {subsection}{\numberline {1.1}Le calcul des empreintes}{6}
+\contentsline {subsection}{\numberline {1.2}Coefficients de similarité}{6}
+\contentsline {section}{\numberline {2}Similarité basé sur le Maximum Common Edge Subgraph (MCES)}{7}
+\contentsline {subsection}{\numberline {2.1}Le calcul du graphe moléculaire produit }{8}
+\contentsline {subsection}{\numberline {2.2}La recherche d'une clique maximum et l'extraction d'un sous-graphe commun à arêtes maximum}{9}
+\contentsline {section}{\numberline {3}Quelques préliminaires de la théorie de graphes}{10}
+\contentsline {subsection}{\numberline {3.1}Chaînes et cycles}{11}
+\contentsline {subsection}{\numberline {3.2}Connexité et isthme}{12}
+\contentsline {subsection}{\numberline {3.3}Base de cycles}{12}
+\contentsline {subsubsection}{Base de cycles fondamentale}{13}
+\contentsline {subsubsection}{Base de cycles de longueur minimum}{13}
+\contentsline {subsubsection}{Union des bases de cycles de longueur minimum}{13}
+\contentsline {chapter}{\numberline {3}Modèle de graphe de cycles}{15}
+\contentsline {section}{\numberline {1}Une représentation intuitive du graphe de cycles }{15}
+\contentsline {section}{\numberline {2}Interconnexion des cycles}{17}
+\contentsline {subsection}{\numberline {2.1}Le type 1 : Cycles directement liés}{17}
+\contentsline {subsection}{\numberline {2.2}Le type 2 : Cycles indirectement liés}{18}
+\contentsline {section}{\numberline {3} Le générateur pour le graphe de cycles}{19}
+\contentsline {subsection}{\numberline {3.1}Une base de cycles comme générateur ?}{19}
+\contentsline {subsection}{\numberline {3.2}Algorithme de McKay pour la numérotation canonique}{21}
+\contentsline {subsection}{\numberline {3.3}Algorithme de Horton pour une base de cycles}{22}
+\contentsline {subsection}{\numberline {3.4}Générateur canonique}{22}
+\contentsline {subsection}{\numberline {3.5}Générateur j-hierarchique }{23}
+\contentsline {paragraph}{}{25}
+\contentsline {chapter}{\numberline {4}Évaluation de la similarité moléculaire}{27}
+\contentsline {section}{\numberline {1}Titre de la premiere section}{27}
+\contentsline {section}{\numberline {2}Titre de la seconde section}{27}
+\contentsline {section}{\numberline {3}Conclusion}{27}
+\contentsline {chapter}{\numberline {5}Similarité pour la catégorisation des réactions}{29}
+\contentsline {section}{\numberline {1}Titre de la premiere section}{29}
+\contentsline {section}{\numberline {2}Titre de la seconde section}{29}
+\contentsline {section}{\numberline {3}Conclusion}{29}
+\contentsline {chapter}{{Conclusion}}{31}
+\contentsline {chapter}{{Bibliographie}}{33}
